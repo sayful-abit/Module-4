@@ -53,3 +53,42 @@ nav li:hover .dropdown{
     text-align: center;
     margin-bottom: 17px;
 }
+table, tr, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 7px;    
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 97%;
+    margin: 10px;
+   
+    
+}
+
+tr, th{
+        border: 2px solid black;
+        border-collapse: collapse;  
+    
+}
+
+.videosec{
+    display: flex;
+    padding-left: 45px;
+}
+.fvideo{
+    border: 7px solid tomato;
+    margin-right: 20px;
+    border-radius: 7px;
+}
+.lvideo{
+    border: 7px solid tomato;
+    border-radius: 7px;
+}
+.framehed{
+    text-align: center;
+    color: tomato;
+    margin: 27px;
+    text-decoration: underline;
+}
