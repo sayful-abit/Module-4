@@ -1,7 +1,7 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
-}
+} */
 
 .bar{
     background-color: rgb(125, 255, 212);
@@ -112,4 +112,21 @@ tr, th{
     color: tomato;
     margin: 27px;
     text-decoration: underline;
+}
+
+.formhed{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 27px;
+    color: tomato;
+}
+
+form, label{
+    display: block;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fieldset > label{
+    display: block;
 }
