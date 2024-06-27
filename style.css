@@ -92,3 +92,24 @@ tr, th{
     margin: 27px;
     text-decoration: underline;
 }
+
+.audiosec{
+    display: flex;
+    margin-left: 350px;
+}
+
+.faudio{
+    border: 3px solid tomato;
+    margin-right: 20px;
+    border-radius: 7px;
+}
+.laudio{
+    border: 3px solid tomato;
+    border-radius: 7px;
+}
+.audiohed{
+    text-align: center;
+    color: tomato;
+    margin: 27px;
+    text-decoration: underline;
+}
